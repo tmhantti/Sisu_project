@@ -1,0 +1,4 @@
+--patch-module
+fi.tuni.prog3.sisu=_
+--add-reads
+fi.tuni.prog3.sisu=ALL-UNNAMED
